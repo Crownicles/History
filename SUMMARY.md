@@ -4,6 +4,7 @@
 
 ## CROWNICLES V6
 
+* [6.1.1](crownicles-v6/6.1.1.md)
 * [6.1.0](crownicles-v6/6.1.0.md)
 * [6.0.4](crownicles-v6/6.0.4.md)
 * [6.0.3](crownicles-v6/6.0.3.md)
